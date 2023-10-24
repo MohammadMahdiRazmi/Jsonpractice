@@ -10,3 +10,4 @@ place1={"province":"Hormozgan",
 }
 loads_place1=json.dumps(place1)
 print(loads_place1)
+print("*******************************")
